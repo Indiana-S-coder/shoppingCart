@@ -177,7 +177,7 @@ class ShoppingCart{
                 Product product = e.getKey();
                 int quantity = e.getValue();
                 if(quantity > 15){
-                    discount += (product.getPrice() * (quantity-15)) * 0.05;
+                    discount += (product.getPrice() * (quantity-15)) * 0.5;
                 }
             }
         }
