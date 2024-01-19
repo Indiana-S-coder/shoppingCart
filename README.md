@@ -1,4 +1,4 @@
-# shoppingCart
+# ShoppingCart program
 
 This is a simple shopping cart program implemented using **Java** and **javascript**.
 The program allows users to input the quantity of products, choose gift wrapping options, and calculates the total cost based on discount rules, shipping fees, and gift wrap fees.
